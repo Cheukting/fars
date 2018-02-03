@@ -1,0 +1,15 @@
+Package: fars
+Type: Package
+Title: FARS data summarization
+Version: 0.1.0
+Author: C T Ho
+Maintainer: C T Ho <cheuk.t.ho@gmail.com>
+Description: FARS package is designed to read, analize and plot data from
+    "US National Highway Traffic Safety Administration's Fatality Analysis Reporting System"
+License: CC0
+Imports: readr, dplyr, tidyr, maps, graphics
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr, rmarkdown, testthat
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
