@@ -1,7 +1,7 @@
 # FARS Package [![Build Status](https://travis-ci.org/Cheukting/fars.svg?branch=master)](https://travis-ci.org/Cheukting/fars)
 
 FARS package is designed to read, analize and plot data from > "US National Highway Traffic Safety Administration's Fatality Analysis Reporting System"
-(http://www.nhtsa.gov/Data/Fatality-Analysis-Reporting-System-(FARS)
+(http://www.nhtsa.gov/Data/Fatality-Analysis-Reporting-System-(FARS))
 
 ## Users function
 
